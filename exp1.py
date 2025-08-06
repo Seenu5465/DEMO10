@@ -4,3 +4,13 @@ C= a+b
 print("SUM OF TWO DIGITS IS :",C)
 
 
+
+
+
+
+
+
+
+
+
+print("sum is 20")
